@@ -27,6 +27,7 @@ You can find all the answers in this section from the help menu.
 3-) Not quite as useful but how about a 'UDP Scan'?
 
 -Answer : -sU
+
 *if you checking the "Help Menu" under the "Scan Techniques" you can find answers.*
 
 4-) What about operating system detection?
