@@ -93,6 +93,7 @@ You can find all the answers in this section from the help menu.
 1-) Let's go ahead and start with the basics and perform a syn scan on the box provided. What will this command be without the host IP address?
 
 *Just look Task 1*
+
 -Answer : nmap -sS
 
 2-) After scanning this, how many ports do we find open under 1000?
