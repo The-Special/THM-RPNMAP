@@ -39,7 +39,7 @@ You can find all the answers in this section from the help menu.
 
 -Answer : -sV
 
-*You can find is SERVICE/VERSION DETECTION menu.
+*You can find is SERVICE/VERSION DETECTION menu.*
 
 6-) Most people like to see some output to know that their scan is actually doing things, what is the verbosity flag?
 
@@ -53,7 +53,7 @@ You can find all the answers in this section from the help menu.
 
 -Answer : -oX
 
-*You can find in OUTPUT
+*You can find in OUTPUT*
 
 9-) Aggressive scans can be nice when other scans just aren't getting the output that you want and you really don't care how 'loud' you are, what is the switch for enabling this?  
 
@@ -63,7 +63,7 @@ You can find all the answers in this section from the help menu.
 
 -Answer : -T5
 
-*You can learn more kind of timing in TIMING AND PERFORMANCE.
+*You can learn more kind of timing in TIMING AND PERFORMANCE.*
 
 11-)What about if I want to scan a specific port?
 
@@ -119,7 +119,7 @@ Solution :![6](https://i.hizliresim.com/y0O3c8.png)
 
 -Answer : http-slowloris-check
 
-*If you look carefully can find Dos attack name.
+*If you look carefully can find Dos attack name.*
 
 
 
